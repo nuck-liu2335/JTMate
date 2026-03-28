@@ -1,6 +1,6 @@
 # 🚀 JTMate (Open Source Modules)
 
-![JTMate Banner](https://www.jtmate.com)
+[![JTMate Banner](https://raw.githubusercontent.com/nuck-liu2335/JTMate/refs/heads/main/homepage.png)](https://www.jtmate.com)
 
 **JTMate** is a smarter shopping platform designed to help users save money through cashback, coupons, and intelligent deal discovery.
 
